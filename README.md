@@ -1,6 +1,7 @@
-#Gauge Practica para Traductor Google
+# Gauge Practica para Traductor Google 🚀
 
-Desarrollo de automatización de prueba en lenguaje Java, framework Gauge y gestor de dependencias Maven
+_Desarrollo de automatización de prueba en lenguaje Java, framework Gauge y gestor de dependencias Maven_
 
-Ejecutar spec
-specs/example.spec
+##### Ejecutar spec 📋
+
+_specs/example.spec_
