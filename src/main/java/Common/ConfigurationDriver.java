@@ -8,9 +8,8 @@ import org.openqa.selenium.chrome.ChromeOptions;
 public class ConfigurationDriver {
     private static WebDriver driver;
 
-
     public WebDriver chromeConfiguration(){
-        System.setProperty("webdriver.chrome.driver", "D:\\Automatizaciones\\gaugePractice\\drivers\\chrome\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "src\\main\\resources\\drivers\\chrome\\chromedriver.exe");
         ChromeOptions options = new ChromeOptions();
         options.addArguments("start-maximized");
         options.addArguments("--incognito");
